@@ -4,7 +4,7 @@ import {
   calcMinutesLeft,
   formatCurrency,
   formatDate,
-} from "../../helpers/helpers";
+} from "../../utils/helpers";
 
 const order = {
   id: "ABCDEF",
